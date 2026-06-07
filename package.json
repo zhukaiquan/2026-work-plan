@@ -1,0 +1,9 @@
+{
+  "name": "2026-work-plan",
+  "version": "1.0.0",
+  "private": true,
+  "description": "糖豆APP 2026年工作计划 — 用户增长 & 推荐算法 & 智能中台",
+  "scripts": {
+    "dev": "npx serve ."
+  }
+}
